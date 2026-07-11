@@ -1,6 +1,8 @@
 ![Banner](assets/banner.svg)
 <p align="center">
-  <img src="profile.gif" width="450">
+
+<img src="assets/profile.gif" width="450"/>
+
 </p>
 <h1 align="center">Hi 👋, I'm Shiv</h1>
 <h3 align="center">Computer Engineering Student | Java Developer | Python Programmer | Data Analytics Enthusiast</h3>
