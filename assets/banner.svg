@@ -1,0 +1,49 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#0F2027"/>
+<stop offset="50%" stop-color="#203A43"/>
+<stop offset="100%" stop-color="#2C5364"/>
+</linearGradient>
+
+</defs>
+
+<rect width="1200" height="300" fill="url(#grad)"/>
+
+<text x="600"
+      y="120"
+      text-anchor="middle"
+      fill="white"
+      font-size="50"
+      font-family="Arial"
+      font-weight="bold">
+
+Hi 👋 I'm Shiv
+
+</text>
+
+<text x="600"
+      y="170"
+      text-anchor="middle"
+      fill="#00E5FF"
+      font-size="26"
+      font-family="Arial">
+
+Java Developer • Python Programmer • Data Analytics
+
+</text>
+
+<text x="600"
+      y="220"
+      text-anchor="middle"
+      fill="white"
+      font-size="20"
+      font-family="Arial">
+
+Learning • Building • Growing Every Day 🚀
+
+</text>
+
+</svg>
