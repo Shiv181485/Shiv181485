@@ -4,6 +4,11 @@
 <img src="assets/profile.gif" width="450"/>
 
 </p>
+<p align="center">
+
+<img src="assets/logo.svg" width="180"/>
+
+</p>
 <h1 align="center">Hi 👋, I'm Shiv</h1>
 <h3 align="center">Computer Engineering Student | Java Developer | Python Programmer | Data Analytics Enthusiast</h3>
 
