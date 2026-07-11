@@ -210,3 +210,10 @@ Become a Software Engineer and build impactful projects.
 ⭐ Thanks for visiting my profile! ⭐
 
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shiv181485/Shiv181485/output/github-contribution-grid-snake-dark.svg">
+
+</p>
