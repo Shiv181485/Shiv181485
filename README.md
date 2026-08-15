@@ -1,169 +1,249 @@
-# 👋 Hi, I'm Shiv
+<!-- ========================= HERO ========================= -->
 
 <p align="center">
   <img src="assets/banner.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/profile.gif" width="420" />
+  <img src="assets/profile.gif" width="430" />
 </p>
 
-<h1 align="center">Shiv</h1>
+<h1 align="center">👋 Hi, I'm Shiv</h1>
 
 <h3 align="center">
-  🐍 Python Developer &nbsp;•&nbsp; 📊 Data Science Enthusiast &nbsp;•&nbsp; 🌐 Frontend Developer &nbsp;•&nbsp; 🗄️ Database & API Developer
+  🐍 Python Developer &nbsp;•&nbsp;
+  ☕ Java Developer &nbsp;•&nbsp;
+  📊 Data Science Enthusiast &nbsp;•&nbsp;
+  🌐 Frontend Developer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Shiv181485">
-    <img src="https://img.shields.io/github/followers/Shiv181485?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Shiv181485&label=Profile%20Views&style=for-the-badge" />
+  <b>Building • Learning • Analyzing • Creating</b>
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/Shiv181485">
+<img src="https://img.shields.io/github/followers/Shiv181485?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Shiv181485&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://img.shields.io/github/stars/Shiv181485?style=for-the-badge&logo=github&label=Stars" />
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Python+Developer;Data+Science+Enthusiast;Frontend+Developer;Database+%26+API+Developer;Building+Data-Driven+Applications;Learning+%7C+Building+%7C+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Python+%7C+Java+Developer;Data+Science+%7C+Data+Analytics;Frontend+Development;Database+%7C+SQL+%7C+APIs;Building+Data-Driven+Applications;Turning+Ideas+Into+Projects;Always+Learning+Something+New!" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧑‍💻 About Me
 
-🎓 **Computer Engineering Student** passionate about building practical and data-driven applications.
+🎓 **Computer Engineering Student** with a strong interest in software development and data-driven technologies.
 
-💻 I enjoy working with **Python, Data Science, Frontend Development, Databases, and APIs**.
+I enjoy building projects that combine **Python, Java, Data Science, Frontend Development, Databases, and APIs**.
 
-📊 I like transforming raw data into **meaningful insights, visualizations, and interactive dashboards**.
+📊 I love taking raw datasets and turning them into **clean data, visualizations, dashboards, and useful insights**.
 
-🌐 I also build responsive frontend interfaces and connect them with APIs and backend/data services.
+🌐 On the development side, I enjoy creating **responsive frontend interfaces** and connecting applications with APIs and databases.
 
-🔍 My current focus is becoming stronger in **Data Science + Software Development**.
+🚀 My goal is to continuously improve my technical skills and build **real-world, practical projects**.
 
-### 💡 What I Work On
+### 💡 What I Do
 
-* 🐍 Python Programming
-* 📊 Data Analysis & Visualization
-* 🤖 Data Science & Machine Learning fundamentals
-* 🌐 Frontend Development
-* 🔗 REST APIs & API Integration
-* 🗄️ SQL & Database Management
-* 📈 Interactive Analytics Dashboards
-* 🧩 Problem Solving & DSA
-* 🛠️ Automation & Data Processing
+| Area                | Focus                                             |
+| ------------------- | ------------------------------------------------- |
+| 🐍 **Python**       | Data Analysis, Automation, APIs, Programming      |
+| ☕ **Java**          | Programming, DSA, Problem Solving                 |
+| 📊 **Data Science** | EDA, Visualization, Statistics, ML Fundamentals   |
+| 🌐 **Frontend**     | HTML, CSS, JavaScript, React                      |
+| 🔗 **APIs**         | REST APIs, JSON, Integration                      |
+| 🗄️ **Database**    | SQL, MySQL, MongoDB, Database Design              |
+| 📈 **Analytics**    | Dashboards, Business Insights, Data Visualization |
 
 ---
 
-# 🧠 Tech Stack
+# ⚡ My Core Skills
 
-## 🐍 Programming & Data
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,mysql,mongodb" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,postman,figma,vercel" />
+
+</p>
+
+---
+
+# 🧠 Programming & Data
+
+## 🐍 Python
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**Python Ecosystem**
+**Python • NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-learn**
 
-`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Plotly` • `Scikit-learn`
+### Python Skills
+
+`Data Analysis` • `Data Cleaning` • `Automation` • `Visualization` • `API Integration` • `File Handling` • `Problem Solving`
 
 ---
 
-## 📊 Data Science & Analytics
+## ☕ Java
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-* 📌 Data Cleaning
+### Java Skills
+
+`Core Java` • `OOP` • `Collections` • `Exception Handling` • `Problem Solving` • `DSA Fundamentals`
+
+---
+
+# 📊 Data Science & Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Science-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Data%20Processing-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn" />
+</p>
+
+### 🔬 Areas of Interest
+
 * 📌 Exploratory Data Analysis
+* 📌 Data Cleaning & Preprocessing
 * 📌 Statistical Analysis
 * 📌 Data Visualization
 * 📌 Feature Engineering
 * 📌 Machine Learning Fundamentals
-* 📌 Dashboard Development
+* 📌 Predictive Analytics
+* 📌 Interactive Dashboards
 * 📌 Business/Data Insights
 
-### 📚 Libraries
+### 📚 Data Libraries
 
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `Scikit-learn`
+```text
+NumPy
+   ↓
+Pandas
+   ↓
+Data Cleaning & Transformation
+   ↓
+Matplotlib / Seaborn / Plotly
+   ↓
+Visualization & Insights
+   ↓
+Scikit-learn
+   ↓
+Machine Learning
+```
 
 ---
 
-## 🌐 Frontend Development
+# 🌐 Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
+
+### 💻 Technologies
 
 `HTML5` • `CSS3` • `JavaScript` • `React` • `Bootstrap` • `Tailwind CSS`
 
----
+### 🎨 Frontend Focus
 
-## 🔗 APIs & Backend Integration
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-  <img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-* REST APIs
+* Responsive Web Design
+* Modern UI Development
+* Component-Based Development
+* Interactive Interfaces
 * API Integration
-* JSON
-* HTTP Requests
-* API Testing
-* Frontend ↔ API Integration
-* Data Retrieval & Processing
+* Dashboard Interfaces
+* User-Friendly Experiences
 
 ---
 
-## 🗄️ Databases
+# 🔗 APIs & Integration
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postman" />
 </p>
+
+### 🔌 API Skills
+
+`REST APIs` • `JSON` • `HTTP` • `GET` • `POST` • `PUT` • `DELETE` • `API Testing` • `API Integration`
+
+### 🔄 My Development Flow
+
+```text
+Frontend
+   │
+   ▼
+REST API
+   │
+   ▼
+Python / Backend Logic
+   │
+   ▼
+Database
+   │
+   ▼
+Processed Data
+   │
+   ▼
+Frontend / Dashboard
+```
+
+---
+
+# 🗄️ Database & SQL
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### 🛢️ Technologies
 
 `MySQL` • `MongoDB` • `SQLite` • `SQL`
 
-### Database Skills
+### 🔎 Database Skills
 
-`CRUD` • `Joins` • `Subqueries` • `Aggregate Functions` • `Normalization` • `Database Design`
+`CRUD` • `Joins` • `Subqueries` • `Aggregate Functions` • `Grouping` • `Filtering` • `Normalization` • `Database Design`
 
 ---
 
 # 🛠️ Tools & Development Environment
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=pycharm" />
-  <img src="https://skillicons.dev/icons?i=idea" />
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=vercel" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,postman,figma,vercel,jupyter" />
 </p>
 
-### 🔧 Tools I Use
+### 🔧 Tools
 
-* Git & GitHub
-* VS Code
-* PyCharm
-* IntelliJ IDEA
-* Jupyter Notebook
-* Google Colab
-* Postman
-* Figma
-* Vercel
-* MySQL Workbench
+| Tool                    | Purpose                         |
+| ----------------------- | ------------------------------- |
+| 🐙 **Git & GitHub**     | Version Control & Collaboration |
+| 💻 **VS Code**          | Development                     |
+| 🐍 **PyCharm**          | Python Development              |
+| ☕ **IntelliJ IDEA**     | Java Development                |
+| 📓 **Jupyter Notebook** | Data Science & Analysis         |
+| ☁️ **Google Colab**     | Data Science & Experiments      |
+| 🚀 **Postman**          | API Development & Testing       |
+| 🎨 **Figma**            | UI/UX Design                    |
+| ▲ **Vercel**            | Deployment                      |
+| 🗄️ **MySQL Workbench** | Database Management             |
 
 ---
 
@@ -171,26 +251,29 @@
 
 <p align="center">
 
-| 📊 Project                         | 🔎 Focus                       |
-| ---------------------------------- | ------------------------------ |
-| 💍 **Wedding Analytics Dashboard** | Data Analysis & Visualization  |
-| ⛽ **Petrol Price Analytics**       | Data Analytics & Visualization |
-| 🛒 **E-Commerce Analytics**        | Business & Customer Analytics  |
-| 🏏 **IPL Analytics**               | Sports Data Analysis           |
-| 🐍 **Python Projects**             | Automation & Data Processing   |
-| 🧩 **DSA Programs**                | Problem Solving                |
+|          🚀 Project         |      📊 Domain     | 🔎 Focus                                  |
+| :-------------------------: | :----------------: | :---------------------------------------- |
+|   💍 **Wedding Analytics**  |   Data Analytics   | EDA • Visualization • Insights            |
+|    ⛽ **Petrol Analytics**   |   Data Analytics   | Price Analysis • Visualization            |
+| 🛒 **E-Commerce Analytics** | Business Analytics | Customer • Sales • Product Analysis       |
+|     🏏 **IPL Analytics**    |  Sports Analytics  | Cricket Data • Statistics • Visualization |
+|    🐍 **Python Projects**   |     Development    | Automation • APIs • Data Processing       |
+|        ☕ **Java DSA**       |     Programming    | Algorithms • Problem Solving              |
 
 </p>
 
-> 🚀 More projects are continuously being added as I learn and build.
+> 🚀 **More projects are continuously being built and added.**
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shiv181485&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Shiv181485&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shiv181485&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=Shiv181485&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -198,7 +281,9 @@
 # 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv181485&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv181485&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
 </p>
 
 ---
@@ -206,7 +291,9 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiv181485&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shiv181485&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
 </p>
 
 ---
@@ -214,7 +301,9 @@
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv181485&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv181485&theme=tokyo-night&hide_border=true&area=true&custom_title=Shiv's%20Contribution%20Graph" />
+
 </p>
 
 ---
@@ -222,97 +311,133 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shiv181485/Shiv181485/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/Shiv181485/Shiv181485/output/github-contribution-grid-snake-dark.svg" />
+
 </p>
 
 <p align="center">
-  <i>My contributions, one commit at a time 🐍</i>
+  <b>🐍 Every contribution tells part of my coding journey.</b>
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-<table align="center">
-<tr>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">📊<br><b>Data Science</b></td>
-<td align="center">🌐<br><b>Frontend</b></td>
-<td align="center">🗄️<br><b>Databases</b></td>
-<td align="center">🔗<br><b>APIs</b></td>
-</tr>
-</table>
+<p align="center">
+
+| 🐍 Python | 📊 Data Science | ☕ Java | 🌐 Frontend | 🗄️ Database | 🔗 APIs |
+| :-------: | :-------------: | :----: | :---------: | :----------: | :-----: |
+
+</p>
 
 ### 🌱 Currently Improving
 
-* 📊 Advanced Data Analysis
-* 🐍 Advanced Python
-* 🤖 Machine Learning
-* 🌐 Modern Frontend Development
-* 🔗 REST API Development & Integration
-* 🗄️ Advanced SQL
-* 🧩 Data Structures & Algorithms
-* 🚀 Building production-ready projects
-
----
-
-# 📚 Learning Roadmap
-
 ```text
-Python
-  ├── Data Analysis
-  ├── Data Visualization
-  ├── Automation
-  └── APIs
+🐍 Python
+   ├── Advanced Programming
+   ├── Data Analysis
+   ├── Automation
+   └── APIs
 
-Data Science
-  ├── Statistics
-  ├── EDA
-  ├── Feature Engineering
-  └── Machine Learning
+📊 Data Science
+   ├── Statistics
+   ├── EDA
+   ├── Visualization
+   ├── Feature Engineering
+   └── Machine Learning
 
-Frontend
-  ├── HTML
-  ├── CSS
-  ├── JavaScript
-  └── React
+☕ Java
+   ├── OOP
+   ├── Collections
+   ├── DSA
+   └── Problem Solving
 
-Database
-  ├── SQL
-  ├── MySQL
-  ├── MongoDB
-  └── Database Design
+🌐 Frontend
+   ├── HTML
+   ├── CSS
+   ├── JavaScript
+   └── React
 
-Development
-  ├── Git
-  ├── GitHub
-  ├── REST APIs
-  └── Deployment
+🗄️ Database
+   ├── SQL
+   ├── MySQL
+   ├── MongoDB
+   └── Database Design
+
+🔗 APIs
+   ├── REST
+   ├── JSON
+   ├── API Integration
+   └── API Testing
 ```
 
 ---
 
-# 📊 My Developer Journey
+# 🗺️ My Learning Journey
 
 ```text
-                 ┌────────────────────┐
-                 │      PYTHON 🐍     │
-                 └─────────┬──────────┘
-                           │
-            ┌──────────────┼──────────────┐
-            ▼              ▼              ▼
-       📊 DATA         🔗 APIs         ⚙️ AUTOMATION
-       SCIENCE
-            │
-            ▼
-       📈 INSIGHTS
-            │
-            ▼
-       🌐 APPLICATIONS
-            │
-            ▼
-       🚀 REAL-WORLD PROJECTS
+                         🚀 SOFTWARE + DATA
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+          🐍 PYTHON          ☕ JAVA          🌐 FRONTEND
+              │                 │                 │
+              ▼                 ▼                 ▼
+        📊 DATA SCIENCE       🧩 DSA          🎨 UI/UX
+              │                 │                 │
+              └─────────────────┼─────────────────┘
+                                │
+                                ▼
+                         🔗 REST APIs
+                                │
+                                ▼
+                         🗄️ DATABASES
+                                │
+                                ▼
+                       📈 REAL PROJECTS
+                                │
+                                ▼
+                            🚀 BUILD
 ```
+
+---
+
+# 💡 What I Love Building
+
+<p align="center">
+
+### 📊 Data → Insights → Decisions
+
+**Raw Data**
+↓
+**Python + Pandas**
+↓
+**Analysis & Cleaning**
+↓
+**Visualization**
+↓
+**Dashboard**
+↓
+**Insights**
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] 🐍 Become stronger in Python
+* [ ] 📊 Build advanced Data Science projects
+* [ ] 🤖 Improve Machine Learning skills
+* [ ] ☕ Strengthen Java & DSA
+* [ ] 🌐 Build modern frontend applications
+* [ ] 🔗 Build and integrate REST APIs
+* [ ] 🗄️ Master SQL & databases
+* [ ] 🚀 Deploy real-world projects
+* [ ] 🌎 Contribute to Open Source
+* [ ] 💼 Prepare for Software/Data roles
 
 ---
 
@@ -321,17 +446,19 @@ Development
 <p align="center">
 
 <a href="https://github.com/Shiv181485">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
 
+  
+
 <a href="mailto:your-email@example.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
 </a>
 
 </p>
 
 <p align="center">
-  <b>📬 Open to learning, collaboration and interesting projects.</b>
+  <b>🤝 Open to collaboration, learning opportunities and interesting projects.</b>
 </p>
 
 ---
@@ -339,7 +466,9 @@ Development
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shiv181485&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=Shiv181485&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
+
 </p>
 
 ---
@@ -348,45 +477,53 @@ Development
 
 <p align="center">
 
-> **Learn → Build → Break → Debug → Improve → Repeat.**
+### **Learn → Build → Break → Debug → Improve → Repeat.**
 
-</p>
+<br>
 
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+<i>“The best way to learn technology is to build with it.”</i>
+
 </p>
 
 ---
 
 # 🚀 What's Next?
 
+<p align="center">
+
 ```text
-📊 Build better Data Science projects
-        ↓
-🐍 Strengthen Python
-        ↓
-🌐 Build modern web applications
-        ↓
-🔗 Work with real-world APIs
-        ↓
-🗄️ Master databases & SQL
-        ↓
-🤖 Explore Machine Learning
-        ↓
-🚀 Build production-ready projects
+📊 DATA SCIENCE
+      ↓
+🐍 PYTHON
+      ↓
+☕ JAVA + DSA
+      ↓
+🌐 FRONTEND
+      ↓
+🔗 APIs
+      ↓
+🗄️ DATABASES
+      ↓
+📈 DATA-DRIVEN APPLICATIONS
+      ↓
+🚀 REAL-WORLD PROJECTS
 ```
+
+</p>
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
-
-**If you find my projects useful, consider giving them a ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=120&section=footer" />
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+
+### ⭐ Thanks for visiting my profile!
+
+**Explore my repositories • Build with me • Let's grow together 🚀**
+
 </p>
 
