@@ -1,98 +1,196 @@
-![Banner](assets/banner.svg)
+# 👋 Hi, I'm Shiv
+
 <p align="center">
-
-<img src="assets/profile.gif" width="450"/>
-
+  <img src="assets/banner.svg" width="100%" />
 </p>
+
 <p align="center">
-
-<img src="assets/profile.gif" width="450"/>
-
+  <img src="assets/profile.gif" width="420" />
 </p>
+
+<h1 align="center">Shiv</h1>
+
+<h3 align="center">
+  🐍 Python Developer &nbsp;•&nbsp; 📊 Data Science Enthusiast &nbsp;•&nbsp; 🌐 Frontend Developer &nbsp;•&nbsp; 🗄️ Database & API Developer
+</h3>
+
 <p align="center">
-
-<img src="assets/logo.svg" width="180"/>
-
+  <a href="https://github.com/Shiv181485">
+    <img src="https://img.shields.io/github/followers/Shiv181485?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shiv181485&label=Profile%20Views&style=for-the-badge" />
 </p>
-<h1 align="center">Hi 👋, I'm Shiv</h1>
-<h3 align="center">Computer Engineering Student | Java Developer | Python Programmer | Data Analytics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Python+Programmer;Data+Analytics+Enthusiast;Learning+DSA+%26+Machine+Learning;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Python+Developer;Data+Science+Enthusiast;Frontend+Developer;Database+%26+API+Developer;Building+Data-Driven+Applications;Learning+%7C+Building+%7C+Improving" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 Computer Engineering Student
+🎓 **Computer Engineering Student** passionate about building practical and data-driven applications.
 
-💻 Passionate about Java, Python, SQL and Data Analytics
+💻 I enjoy working with **Python, Data Science, Frontend Development, Databases, and APIs**.
 
-📊 Interested in Data Science and Machine Learning
+📊 I like transforming raw data into **meaningful insights, visualizations, and interactive dashboards**.
 
-🌱 Currently Learning
+🌐 I also build responsive frontend interfaces and connect them with APIs and backend/data services.
 
-- Data Structures & Algorithms
-- Spring Boot
-- Machine Learning
-- Data Analytics
-- SQL
+🔍 My current focus is becoming stronger in **Data Science + Software Development**.
 
-🚀 Goal
+### 💡 What I Work On
 
-Become a Software Engineer and build impactful projects.
-
----
-
-# 🚀 Tech Stack
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-</p>
-
-## Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=idea"/>
-<img src="https://skillicons.dev/icons?i=pycharm"/>
-</p>
+* 🐍 Python Programming
+* 📊 Data Analysis & Visualization
+* 🤖 Data Science & Machine Learning fundamentals
+* 🌐 Frontend Development
+* 🔗 REST APIs & API Integration
+* 🗄️ SQL & Database Management
+* 📈 Interactive Analytics Dashboards
+* 🧩 Problem Solving & DSA
+* 🛠️ Automation & Data Processing
 
 ---
 
-# 📊 GitHub Statistics
+# 🧠 Tech Stack
+
+## 🐍 Programming & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+**Python Ecosystem**
+
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Plotly` • `Scikit-learn`
+
+---
+
+## 📊 Data Science & Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* 📌 Data Cleaning
+* 📌 Exploratory Data Analysis
+* 📌 Statistical Analysis
+* 📌 Data Visualization
+* 📌 Feature Engineering
+* 📌 Machine Learning Fundamentals
+* 📌 Dashboard Development
+* 📌 Business/Data Insights
+
+### 📚 Libraries
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `Scikit-learn`
+
+---
+
+## 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+`HTML5` • `CSS3` • `JavaScript` • `React` • `Bootstrap` • `Tailwind CSS`
+
+---
+
+## 🔗 APIs & Backend Integration
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+* REST APIs
+* API Integration
+* JSON
+* HTTP Requests
+* API Testing
+* Frontend ↔ API Integration
+* Data Retrieval & Processing
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+`MySQL` • `MongoDB` • `SQLite` • `SQL`
+
+### Database Skills
+
+`CRUD` • `Joins` • `Subqueries` • `Aggregate Functions` • `Normalization` • `Database Design`
+
+---
+
+# 🛠️ Tools & Development Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=pycharm" />
+  <img src="https://skillicons.dev/icons?i=idea" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+### 🔧 Tools I Use
+
+* Git & GitHub
+* VS Code
+* PyCharm
+* IntelliJ IDEA
+* Jupyter Notebook
+* Google Colab
+* Postman
+* Figma
+* Vercel
+* MySQL Workbench
+
+---
+
+# 📂 Featured Projects
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shiv181485&show_icons=true&theme=tokyonight"/>
+| 📊 Project                         | 🔎 Focus                       |
+| ---------------------------------- | ------------------------------ |
+| 💍 **Wedding Analytics Dashboard** | Data Analysis & Visualization  |
+| ⛽ **Petrol Price Analytics**       | Data Analytics & Visualization |
+| 🛒 **E-Commerce Analytics**        | Business & Customer Analytics  |
+| 🏏 **IPL Analytics**               | Sports Data Analysis           |
+| 🐍 **Python Projects**             | Automation & Data Processing   |
+| 🧩 **DSA Programs**                | Problem Solving                |
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv181485&theme=tokyonight"/>
+</p>
 
+> 🚀 More projects are continuously being added as I learn and build.
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shiv181485&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Shiv181485&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -100,9 +198,7 @@ Become a Software Engineer and build impactful projects.
 # 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv181485&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv181485&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
@@ -110,110 +206,187 @@ Become a Software Engineer and build impactful projects.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shiv181485&theme=onedark&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Shiv181485&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv181485&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv181485&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🐍 Contribution Snake
 
-⭐ Wedding Analytics Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shiv181485/Shiv181485/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-⭐ Petrol Analytics Dashboard
-
-⭐ Java DSA Programs
-
-⭐ Machine Learning Projects
-
-⭐ Python Automation
+<p align="center">
+  <i>My contributions, one commit at a time 🐍</i>
+</p>
 
 ---
 
-# 🎯 Current Goals
+# 🎯 Current Focus
 
-✅ Master Data Structures
+<table align="center">
+<tr>
+<td align="center">🐍<br><b>Python</b></td>
+<td align="center">📊<br><b>Data Science</b></td>
+<td align="center">🌐<br><b>Frontend</b></td>
+<td align="center">🗄️<br><b>Databases</b></td>
+<td align="center">🔗<br><b>APIs</b></td>
+</tr>
+</table>
 
-✅ Learn Spring Boot
+### 🌱 Currently Improving
 
-✅ Build AI Projects
-
-✅ Contribute to Open Source
-
-✅ Crack Software Engineering Interviews
+* 📊 Advanced Data Analysis
+* 🐍 Advanced Python
+* 🤖 Machine Learning
+* 🌐 Modern Frontend Development
+* 🔗 REST API Development & Integration
+* 🗄️ Advanced SQL
+* 🧩 Data Structures & Algorithms
+* 🚀 Building production-ready projects
 
 ---
 
-# 📚 Currently Learning
+# 📚 Learning Roadmap
 
-- Java
-- Python
-- SQL
-- Machine Learning
-- Data Analytics
-- Spring Boot
-- Git & GitHub
+```text
+Python
+  ├── Data Analysis
+  ├── Data Visualization
+  ├── Automation
+  └── APIs
+
+Data Science
+  ├── Statistics
+  ├── EDA
+  ├── Feature Engineering
+  └── Machine Learning
+
+Frontend
+  ├── HTML
+  ├── CSS
+  ├── JavaScript
+  └── React
+
+Database
+  ├── SQL
+  ├── MySQL
+  ├── MongoDB
+  └── Database Design
+
+Development
+  ├── Git
+  ├── GitHub
+  ├── REST APIs
+  └── Deployment
+```
+
+---
+
+# 📊 My Developer Journey
+
+```text
+                 ┌────────────────────┐
+                 │      PYTHON 🐍     │
+                 └─────────┬──────────┘
+                           │
+            ┌──────────────┼──────────────┐
+            ▼              ▼              ▼
+       📊 DATA         🔗 APIs         ⚙️ AUTOMATION
+       SCIENCE
+            │
+            ▼
+       📈 INSIGHTS
+            │
+            ▼
+       🌐 APPLICATIONS
+            │
+            ▼
+       🚀 REAL-WORLD PROJECTS
+```
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/Shiv181485">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
+</p>
+
+<p align="center">
+  <b>📬 Open to learning, collaboration and interesting projects.</b>
 </p>
 
 ---
 
 # 👀 Profile Views
 
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=Shiv181485&label=Profile%20Views&color=blue&style=flat"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shiv181485&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Developer Philosophy
 
-> Every expert was once a beginner.
+<p align="center">
+
+> **Learn → Build → Break → Debug → Improve → Repeat.**
+
+</p>
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
 
 ---
 
-# 💡 Quote
+# 🚀 What's Next?
 
-> "Code. Learn. Build. Repeat."
+```text
+📊 Build better Data Science projects
+        ↓
+🐍 Strengthen Python
+        ↓
+🌐 Build modern web applications
+        ↓
+🔗 Work with real-world APIs
+        ↓
+🗄️ Master databases & SQL
+        ↓
+🤖 Explore Machine Learning
+        ↓
+🚀 Build production-ready projects
+```
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my GitHub profile!
+
+**If you find my projects useful, consider giving them a ⭐**
 
 </p>
-## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Shiv181485/Shiv181485/output/github-contribution-grid-snake-dark.svg">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </p>
+
